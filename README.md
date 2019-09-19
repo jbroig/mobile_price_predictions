@@ -9,3 +9,6 @@ Luke has started his own mobile company. He wants to give tough fight to big com
 ### Data Description
 
 The data has been divided into 2 groups : • Training Set (train.csv) • Test Set (test.csv) The training set should be used to build your machine learning models. For the training set we provide the outcome( also known as target or class label) for each mobile sales data point. The test set should be used to see how well your model performs on unseen data. For the test set we do not provide the outcome(target variable) for each mobile sales data point. For each data point in the test set use the model you trained to predict price range. The training set contains 2000 data points. Each data point has 20 features and one target variable.
+
+## Built With
+https://www.kaggle.com/iabhishekofficial/mobile-price-classification
