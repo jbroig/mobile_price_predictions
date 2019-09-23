@@ -1,4 +1,4 @@
-# mobile_price_predictions
+# Mobile price predictions
 
 Based on a public dataset. This process predicts a price range indicating how high the price is.
 
